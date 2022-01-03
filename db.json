@@ -1,0 +1,29 @@
+{
+"activites" :[
+{    "id" : "1",
+        "nom_activite" :"aya",
+        "date_activite" :"10-04-2000"
+       
+    },
+    {    "id" : "2",
+        "nom_activite" :"mariem",
+        "date_activite" :"10-04-2000"
+       
+    },
+  {    "id" : "3",
+        "nom_activite" :"rania",
+        "date_activite" :"10-04-2000"
+       
+    },
+    {    "id" : "4",
+        "nom_activite" :"montehe",
+        "date_activite" :"10-04-2000"
+       
+    },
+    {    "id" : "5",
+        "nom_activite" :"hana",
+        "date_activite" :"10-04-2000"
+       
+    }
+]
+}
